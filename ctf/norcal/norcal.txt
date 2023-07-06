@@ -1,0 +1,26 @@
+afredns1re gistrar-servers comhostmaster
+
+dns resolver/server: 209.244.0.3
+
+
+ip queried for reverse lookup: 10.10.174.108.in-addr.arpa
+
+
+108.174.10.10
+
+
+AAAA Address: c2d1:e1b:5bdd:3fbd:addd:3793:6078:ad97
+
+
+FQDN:
+	packet 19	_sip._tcp.cityinthe.cloud
+	packet 10	cityinthe.clod
+	packet 18	_sip._udp.cityinthe.cloud
+
+
+Primary name server: freedns1.registrar-servers.com
+
+sip1.cityinthe.cloud
+sip2.cityinthe.cloud
+
+192.168.29.133
